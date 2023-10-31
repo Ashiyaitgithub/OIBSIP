@@ -1,0 +1,42 @@
+#temperature-converter {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    background-color: rgb(143, 146, 145);
+  }
+
+  #input-temperature{
+    width: 200px;
+    height: 25px;
+    border: 3px solid;
+    border-radius: 7px;
+  }
+
+  #temperature-unit{
+    width: 205px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 7px;
+  }
+
+  button{
+    width: 80px;
+    height: 30px;
+    border: 3px solid;
+    border-radius: 7px;
+    
+    
+  }
+
+  #result{
+    padding-top: 10px;
+    width: 400px;
+    height: 40px;
+    border: 1px solid;
+    border-radius: 7px;
+  }
+
+  .btn{
+    padding-bottom: 20px;
+  }
+
